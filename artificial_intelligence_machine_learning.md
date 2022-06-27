@@ -84,6 +84,9 @@ https://fleuret.org/dlc/
 
 # AI and ML Podcasts
 
+The Gradient - on Deep Learning:
+https://thegradient.pub/tag/podcast/
+
 Podcast no BroadIgnite do Instituto Broad (Harvard/MIT e Bio):
 https://lnkd.in/dkwjf4wX
 
@@ -104,3 +107,25 @@ https://lnkd.in/dYpbJNMY
 
 Machine Learning Street talk - bastante técnico
 https://lnkd.in/dMykKHhV
+
+
+# AI Startups 
+
+https://www.adept.ai/
+
+https://cohere.ai/
+
+# Brazilian AI Startups
+Distrito report on AI startups
+https://materiais.distrito.me/mr/inteligencia-artificial
+
+Text summarization
+https://birdie.ai/
+
+AI sound mixer
+https://moises.ai/pt-BR/
+
+Tracks broadcasting of songs
+https://www.playax.com/?locale=en
+
+
