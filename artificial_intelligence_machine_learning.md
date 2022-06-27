@@ -75,6 +75,13 @@ https://www.glassner.com/portfolio/deep-learning-from-basics-to-practice/
 
 https://niessner.github.io/I2DL/
 
+## Deep Learning - École Poytechnique Fédérale de Lausanne / University of Geneva 
+
+François Fleuret
+
+https://fleuret.org/dlc/
+
+
 # AI and ML Podcasts
 
 Podcast no BroadIgnite do Instituto Broad (Harvard/MIT e Bio):
