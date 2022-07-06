@@ -81,6 +81,9 @@ François Fleuret
 
 https://fleuret.org/dlc/
 
+## Deep Learning for Art and Creativity - MIT
+
+https://ali-design.github.io/deepcreativity/
 
 # AI and ML Podcasts
 
