@@ -111,6 +111,12 @@ https://lnkd.in/dYpbJNMY
 Machine Learning Street talk - bastante técnico
 https://lnkd.in/dMykKHhV
 
+# Computer Vision - Shree Nayar - Columbia University
+
+First Principles of Computer Vision
+https://fpcv.cs.columbia.edu/
+
+
 
 # AI Startups 
 
