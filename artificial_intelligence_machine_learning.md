@@ -85,6 +85,13 @@ https://fleuret.org/dlc/
 
 https://ali-design.github.io/deepcreativity/
 
+## Lucas Beyer Transformer Slideshow
+
+Google Brain Zurich
+
+https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/preview?pru=AAABg2U4zYY*ea7JrZeJmKkczL-FFJh2ig&slide=id.g31364026ad_3_2
+
+
 # AI and ML Podcasts
 
 The Gradient - on Deep Learning:
